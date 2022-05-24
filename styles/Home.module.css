@@ -96,10 +96,11 @@
 .card:hover,
 .card:focus,
 .card:active {
-    color: white;
-    border-color: hsl(14, 100%, 48%);
-    background-color: palevioletred;
+    color: purple;
+    border-color: hsl(212, 100%, 48%);
+    background-image: url(/giphy-cloud.gif);
     opacity: 0.85;
+    overflow: scroll;
     font-family: fantasy;
 }
 
