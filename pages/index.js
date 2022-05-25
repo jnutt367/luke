@@ -15,7 +15,15 @@ export default function Home() {
         <h1 className={styles.title}>
           The Gospel of <a href="#"> Luke</a>
         </h1>
-
+        <a className="mt-10" href="https://bibleproject.com/downloads/posters/#load-posters-311">
+        <Image className={styles.illustration}
+          src="/48-Luke-FNL.jpeg"
+          alt="new testament illustration"
+          layout="intrinsic"
+          height="900px"
+          width="900px"
+        />
+       </a>
         <p className={styles.description}>
           
           <code className={styles.publisher}>Each Card contains a chapter in Luke's gospel </code>

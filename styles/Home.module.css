@@ -42,7 +42,7 @@
 }
 
 .title {
-    margin: 0;
+    margin: 3rem;
     line-height: 1.15;
     font-size: 4rem;
     font-family: cursive;
@@ -81,6 +81,7 @@
 }
 
 .illustration {
+    margin: 4rem;
     padding-top: 3rem;
     border-radius: 15px;
 }
