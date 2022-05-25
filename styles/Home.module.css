@@ -80,11 +80,18 @@
     max-width: 1400px;
 }
 
+.illustration {
+    padding-top: 3rem;
+    border-radius: 15px;
+}
+
 .card {
     margin: 1rem;
     padding: 1.5rem;
     text-align: left;
     color: inherit;
+    max-height: 300px;
+    overflow: scroll;
     text-decoration: none;
     border: 1px solid #eaeaea;
     border-radius: 10px;
