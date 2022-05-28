@@ -31,7 +31,7 @@ export default function Home() {
 
 
         <div className={styles.grid}>
-        <a href="#" className={styles.card}>
+        <div className={styles.card}>
             <h2>Chapter 1 &darr;</h2>
             <p>1 Many have undertaken to draw up an account of the things that have been fulfilled[a] among us, 2 just as they were handed down to us by those who from the first were eyewitnesses and servants of the word. 3 With this in mind, since I myself have carefully investigated everything from the beginning, I too decided to write an orderly account for you, most excellent Theophilus, 4 so that you may know the certainty of the things you have been taught.
 
@@ -126,9 +126,9 @@ Zechariah’s Song
 to guide our feet into the path of peace.”
 
 80 And the child grew and became strong in spirit[d]; and he lived in the wilderness until he appeared publicly to Israel.</p>
-          </a>
+          </div>
 
-          <a href="#" className={styles.card}>
+          <div className={styles.card}>
             <h2>Chapter 2 &darr;</h2>
             <p>
             The Birth of Jesus
@@ -176,10 +176,9 @@ The Boy Jesus at the Temple
 
 
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 3 &darr;</h2>
@@ -297,10 +296,9 @@ the son of God.
 
 
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 4 &darr;</h2>
@@ -366,9 +364,8 @@ Jesus Heals Many
 
 42 At daybreak, Jesus went out to a solitary place. The people were looking for him and when they came to where he was, they tried to keep him from leaving them. 43 But he said, “I must proclaim the good news of the kingdom of God to the other towns also, because that is why I was sent.” 44 And he kept on preaching in the synagogues of Judea.
             </p>
-          </a>
-          <a
-            href="#"
+          </div>
+          <div
             className={styles.card}
           >
             <h2>Chapter 5 &darr;</h2>
@@ -418,10 +415,9 @@ Jesus Questioned About Fasting
 
 36 He told them this parable: “No one tears a piece out of a new garment to patch an old one. Otherwise, they will have torn the new garment, and the patch from the new will not match the old. 37 And no one pours new wine into old wineskins. Otherwise, the new wine will burst the skins; the wine will run out and the wineskins will be ruined. 38 No, new wine must be poured into new wineskins. 39 And no one after drinking old wine wants the new, for they say, ‘The old is better.’”
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 6 &darr;</h2>
@@ -485,10 +481,9 @@ A Tree and Its Fruit
 The Wise and Foolish Builders
 46 “Why do you call me, ‘Lord, Lord,’ and do not do what I say? 47 As for everyone who comes to me and hears my words and puts them into practice, I will show you what they are like. 48 They are like a man building a house, who dug down deep and laid the foundation on rock. When a flood came, the torrent struck that house but could not shake it, because it was well built. 49 But the one who hears my words and does not put them into practice is like a man who built a house on the ground without a foundation. The moment the torrent struck that house, it collapsed and its destruction was complete.”
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 7 &darr;</h2>
@@ -555,10 +550,9 @@ Jesus Anointed by a Sinful Woman
 
 50 Jesus said to the woman, “Your faith has saved you; go in peace.”
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 8 &darr;</h2>
@@ -630,10 +624,9 @@ When they all denied it, Peter said, “Master, the people are crowding and pres
 
 
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 9 &darr;</h2>
@@ -709,10 +702,9 @@ But he replied, “Lord, first let me go and bury my father.”
 
 62 Jesus replied, “No one who puts a hand to the plow and looks back is fit for service in the kingdom of God.”
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 10 &darr;</h2>
@@ -762,10 +754,9 @@ At the Home of Martha and Mary
 
 41 “Martha, Martha,” the Lord answered, “you are worried and upset about many things, 42 but few things are needed—or indeed only one.[f] Mary has chosen what is better, and it will not be taken away from her.”
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 11 &darr;</h2>
@@ -831,10 +822,9 @@ Woes on the Pharisees and the Experts in the Law
 
 53 When Jesus went outside, the Pharisees and the teachers of the law began to oppose him fiercely and to besiege him with questions, 54 waiting to catch him in something he might say.
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 12 &darr;</h2>
@@ -885,10 +875,9 @@ Interpreting the Times
 
 57 “Why don’t you judge for yourselves what is right? 58 As you are going with your adversary to the magistrate, try hard to be reconciled on the way, or your adversary may drag you off to the judge, and the judge turn you over to the officer, and the officer throw you into prison. 59 I tell you, you will not get out until you have paid the last penny.”
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 13 &darr;</h2>
@@ -934,10 +923,9 @@ Jesus’ Sorrow for Jerusalem
 
 34 “Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you, how often I have longed to gather your children together, as a hen gathers her chicks under her wings, and you were not willing. 35 Look, your house is left to you desolate. I tell you, you will not see me again until you say, ‘Blessed is he who comes in the name of the Lord.’[b]”
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 14 &darr;</h2>
@@ -981,10 +969,9 @@ The Cost of Being a Disciple
 
 
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 15 &darr;</h2>
@@ -1016,10 +1003,9 @@ The Parable of the Lost Son
 
 31 “‘My son,’ the father said, ‘you are always with me, and everything I have is yours. 32 But we had to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.’”
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 16 &darr;</h2>
@@ -1069,9 +1055,9 @@ The Rich Man and Lazarus
 
 31 “He said to him, ‘If they do not listen to Moses and the Prophets, they will not be convinced even if someone rises from the dead.’”
             </p>
-          </a>
+          </div>
 
-          <a href="#" className={styles.card}>
+          <div className={styles.card}>
             <h2>Chapter 17 &darr;</h2>
             <p>Sin, Faith, Duty
 17 Jesus said to his disciples: “Things that cause people to stumble are bound to come, but woe to anyone through whom they come. 2 It would be better for them to be thrown into the sea with a millstone tied around their neck than to cause one of these little ones to stumble. 3 So watch yourselves.
@@ -1107,9 +1093,9 @@ The Coming of the Kingdom of God
 37 “Where, Lord?” they asked.
 
 He replied, “Where there is a dead body, there the vultures will gather.”</p>
-          </a>
+          </div>
 
-          <a href="#" className={styles.card}>
+          <div className={styles.card}>
             <h2>Chapter 18 &darr;</h2>
             <p>
             The Parable of the Persistent Widow
@@ -1166,10 +1152,9 @@ A Blind Beggar Receives His Sight
 
 42 Jesus said to him, “Receive your sight; your faith has healed you.” 43 Immediately he received his sight and followed Jesus, praising God. When all the people saw it, they also praised God.
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 19 &darr;</h2>
@@ -1236,10 +1221,9 @@ Jesus at the Temple
 
 47 Every day he was teaching at the temple. But the chief priests, the teachers of the law and the leaders among the people were trying to kill him. 48 Yet they could not find any way to do it, because all the people hung on his words.
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 20 &darr;</h2>
@@ -1306,9 +1290,8 @@ Whose Son Is the Messiah?
 Warning Against the Teachers of the Law
 45 While all the people were listening, Jesus said to his disciples, 46 “Beware of the teachers of the law. They like to walk around in flowing robes and love to be greeted with respect in the marketplaces and have the most important seats in the synagogues and the places of honor at banquets. 47 They devour widows’ houses and for a show make lengthy prayers. These men will be punished most severely.”
             </p>
-          </a>
-          <a
-            href="#"
+          </div>
+          <div
             className={styles.card}
           >
             <h2>Chapter 21 &darr;</h2>
@@ -1339,7 +1322,7 @@ The Destruction of the Temple and Signs of the End Times
 
 37 Each day Jesus was teaching at the temple, and each evening he went out to spend the night on the hill called the Mount of Olives, 38 and all the people came early in the morning to hear him at the temple.
             </p>
-          </a>
+          </div>
 
 
 
