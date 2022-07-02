@@ -58,12 +58,12 @@ export default function Home() {
         </div>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          The Gospel of <a href="#"> Luke</a>
+           <a href="https://en.wikipedia.org/wiki/Luke"> Luke</a>
         </h1>
       
         <p className={styles.description}>
           
-          <code className={styles.publisher}>Click & Scroll through each chapter in Luke's gospel </code>
+          <code className={styles.publisher}>&darr; Scroll &darr; </code>
         </p>
 
 
@@ -1364,7 +1364,11 @@ The Destruction of the Temple and Signs of the End Times
 
 
         </div>
-
+        <p className={styles.description}> 
+        <code className={styles.publisher}>
+        Coded, Published & Deployed by His servant: Jason Daniel Nutt 
+        </code>
+        </p>
 
 
 
