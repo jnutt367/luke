@@ -32,10 +32,10 @@ export default function Home() {
          <a href="#PayPalButton">
             <button className={styles.button}>CONTRIBUTE </button>
         </a> 
-         <a href="https://luke-three.vercel.app/">
+         <a href="https://mark-alpha.vercel.app/">
             <button className={styles.button}>PREV </button>
        </a>           
-        <a href="https://acts-zeta.vercel.app/">
+        <a href="https://john-zeta.vercel.app/">
             <button className={styles.button}>NEXT > </button>
        </a>           
         <div className={styles.grid}>
