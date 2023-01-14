@@ -14,11 +14,11 @@ export default function Home() {
      
       <main className={styles.main}>
         <h1 className={styles.title}>
-           <a href="https://en.wikipedia.org/wiki/Luke"> Luke</a>
+           <a href="https://en.wikipedia.org/wiki/Luke">The Book Of</a>
         </h1>
          <div className={styles.hero}>
        <Image 
-                                src="/luke-2.jpg"
+                                src="/luke.jpg"
                                 alt="Jesus"
                                 height={900}
                                 width={2000}
