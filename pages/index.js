@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
          <div className={styles.hero}>
        <Image 
-                                src="/Luke_1.jpg"
+                                src="/biblestudy.jpeg"
                                 alt="Jesus"
                                 height={900}
                                 width={2000}
