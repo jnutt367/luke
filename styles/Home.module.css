@@ -6,7 +6,7 @@
 }
 
 .main {
-    background-color: #cc8400;
+    background-color: black;
     background-size: contain;
     background-size: contain;
     min-height: 100vh;
@@ -89,6 +89,7 @@
   top: -50px;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
+  color: white;
   text-shadow: 2px 2px grey;
   font-size: 36px;
   margin-bottom: 3.5rem;
