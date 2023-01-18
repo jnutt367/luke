@@ -141,9 +141,10 @@
     justify-content: space-around;
 }
 .button {
+    color: white;
     height: 30px;
     width: 55px;
-    font-size: 5px;
+    font-size: 7px;
     background-color: #800080;
     align-items: center;
     justify-content: space-between;
