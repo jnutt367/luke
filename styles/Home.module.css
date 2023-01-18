@@ -111,11 +111,7 @@
     font-size: 1rem;
     max-width: 60rem;
 }
-.button {
-    width:100%;
-    background-color: silver;
-    border-radius: 15px;
-}
+
 
 
 .button:hover {
@@ -138,20 +134,19 @@
     color: white;
 }
 
-.nav ul li {
+.nav {
     display: flex;
-    flex-basis: auto;
-    color: #fafafa;
+    flex-direction: row;
     justify-content: space-around;
-    list-style: none;
-    font-size: xx-large;
-    padding-top: 3rem;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-
-.nav ul:hover {
-    color: orange;
-    text-decoration: underline;
+.button {
+    height: 30px;
+    width: 55px;
+    font-size: 5px;
+    background-color: grey;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
 }
 
 .grid {
