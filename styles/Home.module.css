@@ -157,6 +157,7 @@
     align-items: center;
     justify-content: space-evenly;
     padding: 5px;
+    bottom-margin: 75px;
 }
 
 .grid {
