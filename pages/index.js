@@ -17,6 +17,7 @@ export default function Home() {
           LUKE
         </h1>
          <div className={styles.hero}>
+             <div  className={styles.image}>
        <Image 
                                 src="/nativity.jpeg"
                                 alt="Jesus"
@@ -24,6 +25,7 @@ export default function Home() {
                                 width={2000}
                                 priority
                               />
+              </div>          
                    <div className={styles.nav}>      
       <a href="https://the-holy-bible.vercel.app/">
             <button className={styles.button}> HOME </button>
