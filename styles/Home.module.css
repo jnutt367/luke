@@ -347,6 +347,7 @@
     }
     .image {
         padding: 0;
+        height: 900px;
     }
     .holy {
          display: block;
