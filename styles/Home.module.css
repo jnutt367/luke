@@ -324,6 +324,7 @@
         align-items: center;
         margin-left: -2rem;
     }
+  
 }
 
 
@@ -331,6 +332,10 @@
          .image {
         padding-left: 200px;
         padding-right: 200px;     
+    }
+    .nav {
+        margin-left: 200px;
+        margin-right: 200px;     
     }
 }
    
