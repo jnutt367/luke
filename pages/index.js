@@ -69,7 +69,7 @@ export default function Home() {
                </div>
         <div className={styles.grid}>
         <div className={styles.card}>
-            <h2>Chapter 1 &darr;</h2>
+            <h2  className={styles.chapter}>Luke Chapter I</h2>
             <p>1 Many have undertaken to draw up an account of the things that have been fulfilled[a] among us, 2 just as they were handed down to us by those who from the first were eyewitnesses and servants of the word. 3 With this in mind, since I myself have carefully investigated everything from the beginning, I too decided to write an orderly account for you, most excellent Theophilus, 4 so that you may know the certainty of the things you have been taught.
 
 The Birth of John the Baptist Foretold
@@ -166,7 +166,7 @@ to guide our feet into the path of peace.”
           </div>
 
           <div className={styles.card}>
-            <h2>Chapter 2 &darr;</h2>
+            <h2  className={styles.chapter}>Luke Chapter II</h2>
             <p>
             The Birth of Jesus
 2 In those days Caesar Augustus issued a decree that a census should be taken of the entire Roman world. 2 (This was the first census that took place while[a] Quirinius was governor of Syria.) 3 And everyone went to their own town to register.
@@ -218,7 +218,7 @@ The Boy Jesus at the Temple
           <div
             className={styles.card}
           >
-            <h2>Chapter 3 &darr;</h2>
+          <h2  className={styles.chapter}>Luke Chapter III</h2>
             <p>
             John the Baptist Prepares the Way
 3 In the fifteenth year of the reign of Tiberius Caesar—when Pontius Pilate was governor of Judea, Herod tetrarch of Galilee, his brother Philip tetrarch of Iturea and Traconitis, and Lysanias tetrarch of Abilene— 2 during the high-priesthood of Annas and Caiaphas, the word of God came to John son of Zechariah in the wilderness. 3 He went into all the country around the Jordan, preaching a baptism of repentance for the forgiveness of sins. 4 As it is written in the book of the words of Isaiah the prophet:
@@ -338,7 +338,7 @@ the son of God.
           <div
             className={styles.card}
           >
-            <h2>Chapter 4 &darr;</h2>
+           <h2  className={styles.chapter}>Luke Chapter IV</h2>
             <p>
             Jesus Is Tested in the Wilderness
 4 Jesus, full of the Holy Spirit, left the Jordan and was led by the Spirit into the wilderness, 2 where for forty days he was tempted[a] by the devil. He ate nothing during those days, and at the end of them he was hungry.
@@ -405,7 +405,7 @@ Jesus Heals Many
           <div
             className={styles.card}
           >
-            <h2>Chapter 5 &darr;</h2>
+           <h2  className={styles.chapter}>Luke Chapter V</h2>
             <p>
             Jesus Calls His First Disciples
 5 One day as Jesus was standing by the Lake of Gennesaret,[a] the people were crowding around him and listening to the word of God. 2 He saw at the water’s edge two boats, left there by the fishermen, who were washing their nets. 3 He got into one of the boats, the one belonging to Simon, and asked him to put out a little from shore. Then he sat down and taught the people from the boat.
@@ -457,7 +457,7 @@ Jesus Questioned About Fasting
           <div
             className={styles.card}
           >
-            <h2>Chapter 6 &darr;</h2>
+            <h2  className={styles.chapter}>Luke Chapter VI</h2>
             <p>
             Jesus Is Lord of the Sabbath
 6 One Sabbath Jesus was going through the grainfields, and his disciples began to pick some heads of grain, rub them in their hands and eat the kernels. 2 Some of the Pharisees asked, “Why are you doing what is unlawful on the Sabbath?”
@@ -523,7 +523,7 @@ The Wise and Foolish Builders
           <div
             className={styles.card}
           >
-            <h2>Chapter 7 &darr;</h2>
+            <h2  className={styles.chapter}>Luke Chapter VII</h2>
             <p>
             The Faith of the Centurion
 7 When Jesus had finished saying all this to the people who were listening, he entered Capernaum. 2 There a centurion’s servant, whom his master valued highly, was sick and about to die. 3 The centurion heard of Jesus and sent some elders of the Jews to him, asking him to come and heal his servant. 4 When they came to Jesus, they pleaded earnestly with him, “This man deserves to have you do this, 5 because he loves our nation and has built our synagogue.” 6 So Jesus went with them.
@@ -592,7 +592,7 @@ Jesus Anointed by a Sinful Woman
           <div
             className={styles.card}
           >
-            <h2>Chapter 8 &darr;</h2>
+          <h2  className={styles.chapter}>Luke Chapter VIII</h2>
             <p>
             The Parable of the Sower
 8 After this, Jesus traveled about from one town and village to another, proclaiming the good news of the kingdom of God. The Twelve were with him, 2 and also some women who had been cured of evil spirits and diseases: Mary (called Magdalene) from whom seven demons had come out; 3 Joanna the wife of Chuza, the manager of Herod’s household; Susanna; and many others. These women were helping to support them out of their own means.
@@ -666,7 +666,7 @@ When they all denied it, Peter said, “Master, the people are crowding and pres
           <div
             className={styles.card}
           >
-            <h2>Chapter 9 &darr;</h2>
+            <h2  className={styles.chapter}>Luke Chapter IX</h2>
             <p>
             Jesus Sends Out the Twelve
 9 When Jesus had called the Twelve together, he gave them power and authority to drive out all demons and to cure diseases, 2 and he sent them out to proclaim the kingdom of God and to heal the sick. 3 He told them: “Take nothing for the journey—no staff, no bag, no bread, no money, no extra shirt. 4 Whatever house you enter, stay there until you leave that town. 5 If people do not welcome you, leave their town and shake the dust off your feet as a testimony against them.” 6 So they set out and went from village to village, proclaiming the good news and healing people everywhere.
@@ -744,7 +744,7 @@ But he replied, “Lord, first let me go and bury my father.”
           <div
             className={styles.card}
           >
-            <h2>Chapter 10 &darr;</h2>
+           <h2  className={styles.chapter}>Luke Chapter X</h2>
             <p>
             Jesus Sends Out the Seventy-Two
 10 After this the Lord appointed seventy-two[a] others and sent them two by two ahead of him to every town and place where he was about to go. 2 He told them, “The harvest is plentiful, but the workers are few. Ask the Lord of the harvest, therefore, to send out workers into his harvest field. 3 Go! I am sending you out like lambs among wolves. 4 Do not take a purse or bag or sandals; and do not greet anyone on the road.
@@ -796,7 +796,7 @@ At the Home of Martha and Mary
           <div
             className={styles.card}
           >
-            <h2>Chapter 11 &darr;</h2>
+           <h2  className={styles.chapter}>Luke Chapter XI</h2>
             <p>
             Jesus’ Teaching on Prayer
 11 One day Jesus was praying in a certain place. When he finished, one of his disciples said to him, “Lord, teach us to pray, just as John taught his disciples.”
@@ -864,7 +864,7 @@ Woes on the Pharisees and the Experts in the Law
           <div
             className={styles.card}
           >
-            <h2>Chapter 12 &darr;</h2>
+           <h2  className={styles.chapter}>Luke Chapter XII</h2>
             <p>
             Warnings and Encouragements
 12 Meanwhile, when a crowd of many thousands had gathered, so that they were trampling on one another, Jesus began to speak first to his disciples, saying: “Be[a] on your guard against the yeast of the Pharisees, which is hypocrisy. 2 There is nothing concealed that will not be disclosed, or hidden that will not be made known. 3 What you have said in the dark will be heard in the daylight, and what you have whispered in the ear in the inner rooms will be proclaimed from the roofs.
@@ -917,7 +917,7 @@ Interpreting the Times
           <div
             className={styles.card}
           >
-            <h2>Chapter 13 &darr;</h2>
+           <h2  className={styles.chapter}>Luke Chapter XIII</h2>
             <p>
             Repent or Perish
 13 Now there were some present at that time who told Jesus about the Galileans whose blood Pilate had mixed with their sacrifices. 2 Jesus answered, “Do you think that these Galileans were worse sinners than all the other Galileans because they suffered this way? 3 I tell you, no! But unless you repent, you too will all perish. 4 Or those eighteen who died when the tower in Siloam fell on them—do you think they were more guilty than all the others living in Jerusalem? 5 I tell you, no! But unless you repent, you too will all perish.”
@@ -965,7 +965,7 @@ Jesus’ Sorrow for Jerusalem
           <div
             className={styles.card}
           >
-            <h2>Chapter 14 &darr;</h2>
+          <h2  className={styles.chapter}>Luke Chapter XIV</h2>
             <p>
             Jesus at a Pharisee’s House
 14 One Sabbath, when Jesus went to eat in the house of a prominent Pharisee, he was being carefully watched. 2 There in front of him was a man suffering from abnormal swelling of his body. 3 Jesus asked the Pharisees and experts in the law, “Is it lawful to heal on the Sabbath or not?” 4 But they remained silent. So taking hold of the man, he healed him and sent him on his way.
@@ -1011,7 +1011,7 @@ The Cost of Being a Disciple
           <div
             className={styles.card}
           >
-            <h2>Chapter 15 &darr;</h2>
+          <h2  className={styles.chapter}>Luke Chapter XV</h2>
             <p>
             The Parable of the Lost Sheep
 15 Now the tax collectors and sinners were all gathering around to hear Jesus. 2 But the Pharisees and the teachers of the law muttered, “This man welcomes sinners and eats with them.”
@@ -1045,7 +1045,7 @@ The Parable of the Lost Son
           <div
             className={styles.card}
           >
-            <h2>Chapter 16 &darr;</h2>
+            <h2  className={styles.chapter}>Luke Chapter XVI</h2>
             <p>
             The Parable of the Shrewd Manager
 16 Jesus told his disciples: “There was a rich man whose manager was accused of wasting his possessions. 2 So he called him in and asked him, ‘What is this I hear about you? Give an account of your management, because you cannot be manager any longer.’
@@ -1095,7 +1095,7 @@ The Rich Man and Lazarus
           </div>
 
           <div className={styles.card}>
-            <h2>Chapter 17 &darr;</h2>
+          <h2  className={styles.chapter}>Luke Chapter XVII</h2>
             <p>Sin, Faith, Duty
 17 Jesus said to his disciples: “Things that cause people to stumble are bound to come, but woe to anyone through whom they come. 2 It would be better for them to be thrown into the sea with a millstone tied around their neck than to cause one of these little ones to stumble. 3 So watch yourselves.
 
@@ -1133,7 +1133,7 @@ He replied, “Where there is a dead body, there the vultures will gather.”</p
           </div>
 
           <div className={styles.card}>
-            <h2>Chapter 18 &darr;</h2>
+           <h2  className={styles.chapter}>Luke Chapter XVIII</h2>
             <p>
             The Parable of the Persistent Widow
 18 Then Jesus told his disciples a parable to show them that they should always pray and not give up. 2 He said: “In a certain town there was a judge who neither feared God nor cared what people thought. 3 And there was a widow in that town who kept coming to him with the plea, ‘Grant me justice against my adversary.’
@@ -1194,7 +1194,7 @@ A Blind Beggar Receives His Sight
           <div
             className={styles.card}
           >
-            <h2>Chapter 19 &darr;</h2>
+          <h2  className={styles.chapter}>Luke Chapter XIX</h2>
             <p>
             Zacchaeus the Tax Collector
 19 Jesus entered Jericho and was passing through. 2 A man was there by the name of Zacchaeus; he was a chief tax collector and was wealthy. 3 He wanted to see who Jesus was, but because he was short he could not see over the crowd. 4 So he ran ahead and climbed a sycamore-fig tree to see him, since Jesus was coming that way.
@@ -1263,7 +1263,7 @@ Jesus at the Temple
           <div
             className={styles.card}
           >
-            <h2>Chapter 20 &darr;</h2>
+          <h2  className={styles.chapter}>Luke Chapter XX</h2>
             <p>
             The Authority of Jesus Questioned
 20 One day as Jesus was teaching the people in the temple courts and proclaiming the good news, the chief priests and the teachers of the law, together with the elders, came up to him. 2 “Tell us by what authority you are doing these things,” they said. “Who gave you this authority?”
@@ -1331,7 +1331,7 @@ Warning Against the Teachers of the Law
           <div
             className={styles.card}
           >
-            <h2>Chapter 21 &darr;</h2>
+           <h2  className={styles.chapter}>Luke Chapter XXI</h2>
             <p>
             The Widow’s Offering
 21 As Jesus looked up, he saw the rich putting their gifts into the temple treasury. 2 He also saw a poor widow put in two very small copper coins. 3 “Truly I tell you,” he said, “this poor widow has put in more than all the others. 4 All these people gave their gifts out of their wealth; but she out of her poverty put in all she had to live on.”
