@@ -239,13 +239,12 @@
 }
 
 .card {
-    background-image: url(/depositphotos_211313724-stock-photo-read-icon-read-website-button.jpg);
+    background-image: url(/52617427-bible-church-logo-the-name-of-the-mission-bible-society-.webp);
     background-size:contain;
     display: grid;
     place-items: center;
     background-repeat: no-repeat;
     color: transparent;
-    background-color: white;
     margin: 1.5rem;
     margin-bottom: 5rem;
     padding: 1.5rem;
@@ -262,12 +261,19 @@
     color: black;
     position: sticky; 
     z-index: 1;
+    width: 100%;
     text-align: center;
     top: -10px;
     margin-top: 5px;
-    padding-top: 5px;
+    padding-top: 25px;
     padding-bottom: 10px;
     font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+}
+.chapter:hover,
+.chapter:focus,
+.chapter:active {
+    background-color: white;
+    opacity: 0.75;
 }
 .card:hover,
 .card:focus,
