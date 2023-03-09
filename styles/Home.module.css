@@ -62,7 +62,11 @@
   top: 10px;
 }
 
-
+.fund {
+    text-align: center;
+    color: white;
+    font-family: cursive, Fantasy;
+}
 .image {
     margin-top: -50px;
     padding-left: 100px;
