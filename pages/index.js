@@ -67,6 +67,8 @@ export default function Home() {
        </a>           
          
                </div>
+<p className={styles.fund}>Luke 21:33-34 New International Version (NIV)
+Heaven and earth will pass away, but my words will never pass away. “Be careful, or your hearts will be weighed down with carousing, drunkenness and the anxieties of life, and that day will close on you suddenly like a trap.</p>
         <div className={styles.grid}>
         <div className={styles.card}>
             <h2  className={styles.chapter}>Luke Chapter I</h2>
