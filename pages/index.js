@@ -67,7 +67,7 @@ export default function Home() {
        </a>           
          
                </div>
-<p className={styles.fund}>  (Luke 1:31) "You will conceive and give birth to a son, and you are to call him Jesus."
+<p className={styles.fund}>  (Luke 1:68) “Praise be to the Lord, the God of Israel, because he has come to his people and redeemed them."
 </p>
         <div className={styles.grid}>
         <div className={styles.card}>
