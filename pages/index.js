@@ -27,8 +27,8 @@ export default function Home() {
         </h1>
              <div  className={styles.image}>
        <Image 
-                                src="/nativity.jpeg"
-                                alt="Jesus"
+                                src="/epiphany-characters-light-moon_23-2148798278.avif"
+                                alt="Nativity scene blue"
                                 height={900}
                                 width={2000}
                                 priority
