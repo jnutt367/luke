@@ -67,7 +67,7 @@ export default function Home() {
        </a>           
          
                </div>
-<p className={styles.fund}>  (Luke 1:68) “Praise be to the Lord, the God of Israel, because he has come to his people and redeemed them."
+<p className={styles.fund}>  (Luke 1:14) “He will be a joy and delight to you, and many will rejoice because of his birth."
 </p>
         <div className={styles.grid}>
         <div className={styles.card}>
