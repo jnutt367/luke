@@ -27,7 +27,7 @@ export default function Home() {
         </h1>
              <div  className={styles.image}>
        <Image 
-                                src="/christian-christmas-easter-concept-birth-death-resurrection-jesus-christ-wooden-manger-nativity-scene-three-crosses-213617490.jpg"
+                                src="/manger.jpg"
                                 alt="Gabriel & Mary"
                                 height={900}
                                 width={2000}
