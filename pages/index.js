@@ -27,8 +27,8 @@ export default function Home() {
         </h1>
              <div  className={styles.image}>
        <Image 
-                                src="/epiphany-characters-light-moon_23-2148798278.avif"
-                                alt="Nativity scene blue"
+                                src="/5865-istockgetty-images-plusrudall30.jpg"
+                                alt="Gabriel & Mary"
                                 height={900}
                                 width={2000}
                                 priority
@@ -67,7 +67,7 @@ export default function Home() {
        </a>           
          
                </div>
-<p className={styles.fund}>  (Luke 1:35) The angel answered, “The Holy Spirit will come on you, and the power of the Most High will overshadow you. So the holy one to be born will be called the Son of God."
+<p className={styles.fund}>  (Luke 1:35) “The Holy Spirit will come on you, & the power of the Most High will overshadow you. So the holy one to be born will be called the Son of God."
 </p>
         <div className={styles.grid}>
         <div className={styles.card}>
