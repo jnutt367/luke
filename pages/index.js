@@ -67,12 +67,12 @@ export default function Home() {
        </a>           
          
                </div>
-<p className={styles.fund}>  (Luke 1:14) “He will be a joy and delight to you, and many will rejoice because of his birth."
+<p className={styles.fund}>  (Luke 1:35) The angel answered, “The Holy Spirit will come on you, and the power of the Most High will overshadow you. So the holy one to be born will be called the Son of God."
 </p>
         <div className={styles.grid}>
         <div className={styles.card}>
             <h2  className={styles.chapter}>Luke Chapter I</h2>
-            <p>1 Many have undertaken to draw up an account of the things that have been fulfilled[a] among us, 2 just as they were handed down to us by those who from the first were eyewitnesses and servants of the word. 3 With this in mind, since I myself have carefully investigated everything from the beginning, I too decided to write an orderly account for you, most excellent Theophilus, 4 so that you may know the certainty of the things you have been taught.
+            <p>1 Many have undertaken to draw up an account of the things that have been fulfilled among us, 2 just as they were handed down to us by those who from the first were eyewitnesses and servants of the word. 3 With this in mind, since I myself have carefully investigated everything from the beginning, I too decided to write an orderly account for you, most excellent Theophilus, 4 so that you may know the certainty of the things you have been taught.
 
 The Birth of John the Baptist Foretold
 5 In the time of Herod king of Judea there was a priest named Zechariah, who belonged to the priestly division of Abijah; his wife Elizabeth was also a descendant of Aaron. 6 Both of them were righteous in the sight of God, observing all the Lord’s commands and decrees blamelessly. 7 But they were childless because Elizabeth was not able to conceive, and they were both very old.
