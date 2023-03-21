@@ -27,7 +27,7 @@ export default function Home() {
         </h1>
              <div  className={styles.image}>
        <Image 
-                                src="/manger.jpg"
+                                src="/The-Annunciation.jpg"
                                 alt="Gabriel & Mary"
                                 height={900}
                                 width={2000}
