@@ -27,7 +27,7 @@ export default function Home() {
         </h1>
              <div  className={styles.image}>
        <Image 
-                                src="/The-Annunciation.jpg"
+                                src="/jesus.gif"
                                 alt="Gabriel & Mary"
                                 height={900}
                                 width={2000}
@@ -67,7 +67,7 @@ export default function Home() {
        </a>           
          
                </div>
-<p className={styles.fund}>  (Luke 1:35) “The Holy Spirit will come on you, & the power of the Most High will overshadow you. So the holy one to be born will be called the Son of God."
+<p className={styles.fund}>  (Luke 24:39) "Look at my hands and my feet. It is I myself! Touch me and see; a ghost does not have flesh and bones, as you see I have."
 </p>
         <div className={styles.grid}>
         <div className={styles.card}>
