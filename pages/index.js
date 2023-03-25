@@ -27,7 +27,7 @@ export default function Home() {
         </h1>
              <div  className={styles.image}>
        <Image 
-                                src="/jesus.gif"
+                                src="/Jesus-jesus-7340222-400-279.gif"
                                 alt="Gabriel & Mary"
                                 height={900}
                                 width={2000}
@@ -67,7 +67,7 @@ export default function Home() {
        </a>           
          
                </div>
-<p className={styles.fund}>  (Luke 24:39) "Look at my hands and my feet. It is I myself! Touch me and see; a ghost does not have flesh and bones, as you see I have."
+<p className={styles.fund}>  (Luke 23:46) '"Father, into your hands I commit my spirit." When he had said this, he breathed his last.'
 </p>
         <div className={styles.grid}>
         <div className={styles.card}>
