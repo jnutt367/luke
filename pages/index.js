@@ -1357,9 +1357,198 @@ The Destruction of the Temple and Signs of the End Times
 37 Each day Jesus was teaching at the temple, and each evening he went out to spend the night on the hill called the Mount of Olives, 38 and all the people came early in the morning to hear him at the temple.
             </p>
           </div>
+<div
+            className={styles.card}
+          >
+   <h2  className={styles.chapter}>Luke Chapter XXII</h2>
+<p>
+22 Now the Festival of Unleavened Bread, called the Passover, was approaching, 2 and the chief priests and the teachers of the law were looking for some way to get rid of Jesus, for they were afraid of the people. 3 Then Satan entered Judas, called Iscariot, one of the Twelve. 4 And Judas went to the chief priests and the officers of the temple guard and discussed with them how he might betray Jesus. 5 They were delighted and agreed to give him money. 6 He consented, and watched for an opportunity to hand Jesus over to them when no crowd was present.
 
+The Last Supper
+7 Then came the day of Unleavened Bread on which the Passover lamb had to be sacrificed. 8 Jesus sent Peter and John, saying, “Go and make preparations for us to eat the Passover.”
 
+9 “Where do you want us to prepare for it?” they asked.
 
+10 He replied, “As you enter the city, a man carrying a jar of water will meet you. Follow him to the house that he enters, 11 and say to the owner of the house, ‘The Teacher asks: Where is the guest room, where I may eat the Passover with my disciples?’ 12 He will show you a large room upstairs, all furnished. Make preparations there.”
+
+13 They left and found things just as Jesus had told them. So they prepared the Passover.
+
+14 When the hour came, Jesus and his apostles reclined at the table. 15 And he said to them, “I have eagerly desired to eat this Passover with you before I suffer. 16 For I tell you, I will not eat it again until it finds fulfillment in the kingdom of God.”
+
+17 After taking the cup, he gave thanks and said, “Take this and divide it among you. 18 For I tell you I will not drink again from the fruit of the vine until the kingdom of God comes.”
+
+19 And he took bread, gave thanks and broke it, and gave it to them, saying, “This is my body given for you; do this in remembrance of me.”
+
+20 In the same way, after the supper he took the cup, saying, “This cup is the new covenant in my blood, which is poured out for you.[a] 21 But the hand of him who is going to betray me is with mine on the table. 22 The Son of Man will go as it has been decreed. But woe to that man who betrays him!” 23 They began to question among themselves which of them it might be who would do this.
+
+24 A dispute also arose among them as to which of them was considered to be greatest. 25 Jesus said to them, “The kings of the Gentiles lord it over them; and those who exercise authority over them call themselves Benefactors. 26 But you are not to be like that. Instead, the greatest among you should be like the youngest, and the one who rules like the one who serves. 27 For who is greater, the one who is at the table or the one who serves? Is it not the one who is at the table? But I am among you as one who serves. 28 You are those who have stood by me in my trials. 29 And I confer on you a kingdom, just as my Father conferred one on me, 30 so that you may eat and drink at my table in my kingdom and sit on thrones, judging the twelve tribes of Israel.
+
+31 “Simon, Simon, Satan has asked to sift all of you as wheat. 32 But I have prayed for you, Simon, that your faith may not fail. And when you have turned back, strengthen your brothers.”
+
+33 But he replied, “Lord, I am ready to go with you to prison and to death.”
+
+34 Jesus answered, “I tell you, Peter, before the rooster crows today, you will deny three times that you know me.”
+
+35 Then Jesus asked them, “When I sent you without purse, bag or sandals, did you lack anything?”
+
+“Nothing,” they answered.
+
+36 He said to them, “But now if you have a purse, take it, and also a bag; and if you don’t have a sword, sell your cloak and buy one. 37 It is written: ‘And he was numbered with the transgressors’[b]; and I tell you that this must be fulfilled in me. Yes, what is written about me is reaching its fulfillment.”
+
+38 The disciples said, “See, Lord, here are two swords.”
+
+“That’s enough!” he replied.
+
+Jesus Prays on the Mount of Olives
+39 Jesus went out as usual to the Mount of Olives, and his disciples followed him. 40 On reaching the place, he said to them, “Pray that you will not fall into temptation.” 41 He withdrew about a stone’s throw beyond them, knelt down and prayed, 42 “Father, if you are willing, take this cup from me; yet not my will, but yours be done.” 43 An angel from heaven appeared to him and strengthened him. 44 And being in anguish, he prayed more earnestly, and his sweat was like drops of blood falling to the ground.[c]
+
+45 When he rose from prayer and went back to the disciples, he found them asleep, exhausted from sorrow. 46 “Why are you sleeping?” he asked them. “Get up and pray so that you will not fall into temptation.”
+
+Jesus Arrested
+47 While he was still speaking a crowd came up, and the man who was called Judas, one of the Twelve, was leading them. He approached Jesus to kiss him, 48 but Jesus asked him, “Judas, are you betraying the Son of Man with a kiss?”
+
+49 When Jesus’ followers saw what was going to happen, they said, “Lord, should we strike with our swords?” 50 And one of them struck the servant of the high priest, cutting off his right ear.
+
+51 But Jesus answered, “No more of this!” And he touched the man’s ear and healed him.
+
+52 Then Jesus said to the chief priests, the officers of the temple guard, and the elders, who had come for him, “Am I leading a rebellion, that you have come with swords and clubs? 53 Every day I was with you in the temple courts, and you did not lay a hand on me. But this is your hour—when darkness reigns.”
+
+Peter Disowns Jesus
+54 Then seizing him, they led him away and took him into the house of the high priest. Peter followed at a distance. 55 And when some there had kindled a fire in the middle of the courtyard and had sat down together, Peter sat down with them. 56 A servant girl saw him seated there in the firelight. She looked closely at him and said, “This man was with him.”
+
+57 But he denied it. “Woman, I don’t know him,” he said.
+
+58 A little later someone else saw him and said, “You also are one of them.”
+
+“Man, I am not!” Peter replied.
+
+59 About an hour later another asserted, “Certainly this fellow was with him, for he is a Galilean.”
+
+60 Peter replied, “Man, I don’t know what you’re talking about!” Just as he was speaking, the rooster crowed. 61 The Lord turned and looked straight at Peter. Then Peter remembered the word the Lord had spoken to him: “Before the rooster crows today, you will disown me three times.” 62 And he went outside and wept bitterly.
+
+The Guards Mock Jesus
+63 The men who were guarding Jesus began mocking and beating him. 64 They blindfolded him and demanded, “Prophesy! Who hit you?” 65 And they said many other insulting things to him.
+
+Jesus Before Pilate and Herod
+66 At daybreak the council of the elders of the people, both the chief priests and the teachers of the law, met together, and Jesus was led before them. 67 “If you are the Messiah,” they said, “tell us.”
+
+Jesus answered, “If I tell you, you will not believe me, 68 and if I asked you, you would not answer. 69 But from now on, the Son of Man will be seated at the right hand of the mighty God.”
+
+70 They all asked, “Are you then the Son of God?”
+
+He replied, “You say that I am.”
+
+71 Then they said, “Why do we need any more testimony? We have heard it from his own lips.”
+    </p>
+</div>
+ <div
+            className={styles.card}
+          >
+           <h2  className={styles.chapter}>Luke Chapter XXIII</h2>
+              <p>
+             23 Then the whole assembly rose and led him off to Pilate. 2 And they began to accuse him, saying, “We have found this man subverting our nation. He opposes payment of taxes to Caesar and claims to be Messiah, a king.”
+
+3 So Pilate asked Jesus, “Are you the king of the Jews?”
+
+“You have said so,” Jesus replied.
+
+4 Then Pilate announced to the chief priests and the crowd, “I find no basis for a charge against this man.”
+
+5 But they insisted, “He stirs up the people all over Judea by his teaching. He started in Galilee and has come all the way here.”
+
+6 On hearing this, Pilate asked if the man was a Galilean. 7 When he learned that Jesus was under Herod’s jurisdiction, he sent him to Herod, who was also in Jerusalem at that time.
+
+8 When Herod saw Jesus, he was greatly pleased, because for a long time he had been wanting to see him. From what he had heard about him, he hoped to see him perform a sign of some sort. 9 He plied him with many questions, but Jesus gave him no answer. 10 The chief priests and the teachers of the law were standing there, vehemently accusing him. 11 Then Herod and his soldiers ridiculed and mocked him. Dressing him in an elegant robe, they sent him back to Pilate. 12 That day Herod and Pilate became friends—before this they had been enemies.
+
+13 Pilate called together the chief priests, the rulers and the people, 14 and said to them, “You brought me this man as one who was inciting the people to rebellion. I have examined him in your presence and have found no basis for your charges against him. 15 Neither has Herod, for he sent him back to us; as you can see, he has done nothing to deserve death. 16 Therefore, I will punish him and then release him.” [17] [a]
+
+18 But the whole crowd shouted, “Away with this man! Release Barabbas to us!” 19 (Barabbas had been thrown into prison for an insurrection in the city, and for murder.)
+
+20 Wanting to release Jesus, Pilate appealed to them again. 21 But they kept shouting, “Crucify him! Crucify him!”
+
+22 For the third time he spoke to them: “Why? What crime has this man committed? I have found in him no grounds for the death penalty. Therefore I will have him punished and then release him.”
+
+23 But with loud shouts they insistently demanded that he be crucified, and their shouts prevailed. 24 So Pilate decided to grant their demand. 25 He released the man who had been thrown into prison for insurrection and murder, the one they asked for, and surrendered Jesus to their will.
+
+The Crucifixion of Jesus
+26 As the soldiers led him away, they seized Simon from Cyrene, who was on his way in from the country, and put the cross on him and made him carry it behind Jesus. 27 A large number of people followed him, including women who mourned and wailed for him. 28 Jesus turned and said to them, “Daughters of Jerusalem, do not weep for me; weep for yourselves and for your children. 29 For the time will come when you will say, ‘Blessed are the childless women, the wombs that never bore and the breasts that never nursed!’ 30 Then
+
+“‘they will say to the mountains, “Fall on us!”
+    and to the hills, “Cover us!”’[b]
+
+31 For if people do these things when the tree is green, what will happen when it is dry?”
+
+32 Two other men, both criminals, were also led out with him to be executed. 33 When they came to the place called the Skull, they crucified him there, along with the criminals—one on his right, the other on his left. 34 Jesus said, “Father, forgive them, for they do not know what they are doing.”[c] And they divided up his clothes by casting lots.
+
+35 The people stood watching, and the rulers even sneered at him. They said, “He saved others; let him save himself if he is God’s Messiah, the Chosen One.”
+
+36 The soldiers also came up and mocked him. They offered him wine vinegar 37 and said, “If you are the king of the Jews, save yourself.”
+
+38 There was a written notice above him, which read: this is the king of the jews.
+
+39 One of the criminals who hung there hurled insults at him: “Aren’t you the Messiah? Save yourself and us!”
+
+40 But the other criminal rebuked him. “Don’t you fear God,” he said, “since you are under the same sentence? 41 We are punished justly, for we are getting what our deeds deserve. But this man has done nothing wrong.”
+
+42 Then he said, “Jesus, remember me when you come into your kingdom.[d]”
+
+43 Jesus answered him, “Truly I tell you, today you will be with me in paradise.”
+
+The Death of Jesus
+44 It was now about noon, and darkness came over the whole land until three in the afternoon, 45 for the sun stopped shining. And the curtain of the temple was torn in two. 46 Jesus called out with a loud voice, “Father, into your hands I commit my spirit.”[e] When he had said this, he breathed his last.
+
+47 The centurion, seeing what had happened, praised God and said, “Surely this was a righteous man.” 48 When all the people who had gathered to witness this sight saw what took place, they beat their breasts and went away. 49 But all those who knew him, including the women who had followed him from Galilee, stood at a distance, watching these things.
+
+The Burial of Jesus
+50 Now there was a man named Joseph, a member of the Council, a good and upright man, 51 who had not consented to their decision and action. He came from the Judean town of Arimathea, and he himself was waiting for the kingdom of God. 52 Going to Pilate, he asked for Jesus’ body. 53 Then he took it down, wrapped it in linen cloth and placed it in a tomb cut in the rock, one in which no one had yet been laid. 54 It was Preparation Day, and the Sabbath was about to begin.
+
+55 The women who had come with Jesus from Galilee followed Joseph and saw the tomb and how his body was laid in it. 56 Then they went home and prepared spices and perfumes. But they rested on the Sabbath in obedience to the commandment.             </p>
+
+</div>
+
+<div
+            className={styles.card}
+          >
+           <h2  className={styles.chapter}>Luke Chapter XXIV</h2>
+              <p>
+             24 On the first day of the week, very early in the morning, the women took the spices they had prepared and went to the tomb. 2 They found the stone rolled away from the tomb, 3 but when they entered, they did not find the body of the Lord Jesus. 4 While they were wondering about this, suddenly two men in clothes that gleamed like lightning stood beside them. 5 In their fright the women bowed down with their faces to the ground, but the men said to them, “Why do you look for the living among the dead? 6 He is not here; he has risen! Remember how he told you, while he was still with you in Galilee: 7 ‘The Son of Man must be delivered over to the hands of sinners, be crucified and on the third day be raised again.’ ” 8 Then they remembered his words.
+
+9 When they came back from the tomb, they told all these things to the Eleven and to all the others. 10 It was Mary Magdalene, Joanna, Mary the mother of James, and the others with them who told this to the apostles. 11 But they did not believe the women, because their words seemed to them like nonsense. 12 Peter, however, got up and ran to the tomb. Bending over, he saw the strips of linen lying by themselves, and he went away, wondering to himself what had happened.
+
+On the Road to Emmaus
+13 Now that same day two of them were going to a village called Emmaus, about seven miles[a] from Jerusalem. 14 They were talking with each other about everything that had happened. 15 As they talked and discussed these things with each other, Jesus himself came up and walked along with them; 16 but they were kept from recognizing him.
+
+17 He asked them, “What are you discussing together as you walk along?”
+
+They stood still, their faces downcast. 18 One of them, named Cleopas, asked him, “Are you the only one visiting Jerusalem who does not know the things that have happened there in these days?”
+
+19 “What things?” he asked.
+
+“About Jesus of Nazareth,” they replied. “He was a prophet, powerful in word and deed before God and all the people. 20 The chief priests and our rulers handed him over to be sentenced to death, and they crucified him; 21 but we had hoped that he was the one who was going to redeem Israel. And what is more, it is the third day since all this took place. 22 In addition, some of our women amazed us. They went to the tomb early this morning 23 but didn’t find his body. They came and told us that they had seen a vision of angels, who said he was alive. 24 Then some of our companions went to the tomb and found it just as the women had said, but they did not see Jesus.”
+
+25 He said to them, “How foolish you are, and how slow to believe all that the prophets have spoken! 26 Did not the Messiah have to suffer these things and then enter his glory?” 27 And beginning with Moses and all the Prophets, he explained to them what was said in all the Scriptures concerning himself.
+
+28 As they approached the village to which they were going, Jesus continued on as if he were going farther. 29 But they urged him strongly, “Stay with us, for it is nearly evening; the day is almost over.” So he went in to stay with them.
+
+30 When he was at the table with them, he took bread, gave thanks, broke it and began to give it to them. 31 Then their eyes were opened and they recognized him, and he disappeared from their sight. 32 They asked each other, “Were not our hearts burning within us while he talked with us on the road and opened the Scriptures to us?”
+
+33 They got up and returned at once to Jerusalem. There they found the Eleven and those with them, assembled together 34 and saying, “It is true! The Lord has risen and has appeared to Simon.” 35 Then the two told what had happened on the way, and how Jesus was recognized by them when he broke the bread.
+
+Jesus Appears to the Disciples
+36 While they were still talking about this, Jesus himself stood among them and said to them, “Peace be with you.”
+
+37 They were startled and frightened, thinking they saw a ghost. 38 He said to them, “Why are you troubled, and why do doubts rise in your minds? 39 Look at my hands and my feet. It is I myself! Touch me and see; a ghost does not have flesh and bones, as you see I have.”
+
+40 When he had said this, he showed them his hands and feet. 41 And while they still did not believe it because of joy and amazement, he asked them, “Do you have anything here to eat?” 42 They gave him a piece of broiled fish, 43 and he took it and ate it in their presence.
+
+44 He said to them, “This is what I told you while I was still with you: Everything must be fulfilled that is written about me in the Law of Moses, the Prophets and the Psalms.”
+
+45 Then he opened their minds so they could understand the Scriptures. 46 He told them, “This is what is written: The Messiah will suffer and rise from the dead on the third day, 47 and repentance for the forgiveness of sins will be preached in his name to all nations, beginning at Jerusalem. 48 You are witnesses of these things. 49 I am going to send you what my Father has promised; but stay in the city until you have been clothed with power from on high.”
+
+The Ascension of Jesus
+50 When he had led them out to the vicinity of Bethany, he lifted up his hands and blessed them. 51 While he was blessing them, he left them and was taken up into heaven. 52 Then they worshiped him and returned to Jerusalem with great joy. 53 And they stayed continually at the temple, praising God.
+             </p>
+</div>
         </div>
 </div>
         <p className={styles.description}> 
