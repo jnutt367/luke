@@ -1549,6 +1549,17 @@ The Ascension of Jesus
 50 When he had led them out to the vicinity of Bethany, he lifted up his hands and blessed them. 51 While he was blessing them, he left them and was taken up into heaven. 52 Then they worshiped him and returned to Jerusalem with great joy. 53 And they stayed continually at the temple, praising God.
              </p>
 </div>
+<div  className={styles.image}>
+       <Image 
+                                src="/workshop.png"
+                                alt="workshop"
+                                height={900}
+                                width={2000}
+                                priority
+                              />
+              </div>          
+
+
         </div>
 </div>
         <p className={styles.description}> 
