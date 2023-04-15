@@ -48,8 +48,7 @@ export default function Home() {
 
          <a href="https://gofund.me/a2b590af">
              <p className={styles.donate}>
-               Support <br />
-                  Creator
+               SUBSCRIBE!
                </p>
        </a>
          <a href="https://john-zeta.vercel.app/">
