@@ -142,8 +142,9 @@
 }
 
 .donateButton:hover {
-    color: white;
-    cursor: pointer;
+      background-color: red;
+      color: whitesmoke;
+      border: 2px solid black;
 }
 
 .title a {
