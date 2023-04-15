@@ -144,7 +144,7 @@
 .donateButton:hover {
       background-color: red;
       color: whitesmoke;
-      border: 2px solid black;
+      border: 1px solid black;
 }
 
 .title a {
