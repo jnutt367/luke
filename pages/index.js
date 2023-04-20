@@ -46,10 +46,14 @@ export default function Home() {
                               />
        </a>
 
-         <a href="https://gofund.me/a2b590af">
-             <p className={styles.donate}>
-               SUBSCRIBE!
-               </p>
+        <a href="https://gofund.me/a2b590af">
+              <Image className={styles.arrow}
+                                src="/fundme.png"
+                                alt="funding-icon"
+                                height={75}
+                                width={75}
+                                priority
+                              /> 
        </a>
          <a href="https://john-zeta.vercel.app/">
             <Image className={styles.arrow}
