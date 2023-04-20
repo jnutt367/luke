@@ -27,7 +27,7 @@ export default function Home() {
         </h1>
              <div  className={styles.image}>
        <Image 
-                                src="/resurrection-icegif-7.gif"
+                                src="/Praying.png"
                                 alt="Gabriel & Mary"
                                 height={900}
                                 width={2000}
