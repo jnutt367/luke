@@ -25,16 +25,21 @@ export default function Home() {
         <h1 className={styles.title}>
         LUKE
         </h1>
-             <div  className={styles.image}>
-       <Image 
+               <div  className={styles.image}>
+                              <Image 
                                 src="/Praying.png"
-                                alt="Gabriel & Mary"
+                                alt="Nativity silent night gif"
                                 height={900}
                                 width={2000}
                                 priority
                               />
-                             <iframe width="100%" height="175" src="https://www.youtube.com/embed/zr54VtQNbgg?autoplay=1&mute=1" title="YouTube video player" frameborder="3" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     
-              </div>          
+                 
+                
+                    </div>          
+ 
+
+<iframe width="100%" height="250" src="https://www.youtube.com/embed/dhsAjjz8WLk" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
+                      
  <div className={styles.nav}>           
       <a href="https://mark-alpha.vercel.app/">
              <Image className={styles.arrow}
