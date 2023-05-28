@@ -358,7 +358,7 @@
     display: inline;
     color: black;
     opacity: 1;
-    border: 6px solid blue;
+    border: 6px solid #4169e1;
     background-image: url(/paper.jpg);
     background-repeat: no-repeat;
     background-size: cover;
