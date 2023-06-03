@@ -27,7 +27,7 @@ export default function Home() {
         </h1>
                <div  className={styles.image}>
                               <Image 
-                                src="/wordle_blue_jesus.jpeg"
+                                src="/wordle-christ_is_god.webp"
                                 alt="Nativity silent night gif"
                                 height={900}
                                 width={2000}
