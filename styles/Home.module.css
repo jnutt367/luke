@@ -253,7 +253,8 @@
 }
 
 .nav {
-    background-color: blue;
+    background-color: #1B2B5C;
+    color: white;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -335,7 +336,7 @@
     font-family: monospace;
 }
 .chapter {
-    background-color: blue;
+    background-color: #1B2B5C;
     color: white;
     opacity: 1;
     position: sticky;
