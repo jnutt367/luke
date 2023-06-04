@@ -275,8 +275,8 @@
 }
 
 .grid {
-    background-color: blue;
-    color: black;
+    background-color: #1B2B5C;
+    color: white;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -307,7 +307,7 @@
 }
 
 .card {
-    background-image: url(/wordle-christ_is_god.webp);
+    background-image: url(/word-cloud-jesus-saves-white.jpeg);
     background-repeat: no-repeat;
     border-radius: 15px 50px 30px;
     box-shadow: lightblue 0px 5px 15px;
