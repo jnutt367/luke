@@ -38,7 +38,7 @@ export default function Home() {
                             
  
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/XIb_dCIxzr0" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
  </div>
 
 <div className={styles.nav}>           
@@ -72,6 +72,11 @@ export default function Home() {
        </a>           
          
                </div>
+
+<div className={styles.iframe}>
+          <iframe width="100%" height="315" src="https://www.youtube.com/embed/XIb_dCIxzr0" title="YouTube video player" frameborder="3" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+
 <p className={styles.fund}>  (Luke 24:5) '“Why do you look for the living among the dead? 6 He is not here; he has risen!"'
 </p>
         <div className={styles.grid}>
