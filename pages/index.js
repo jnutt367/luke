@@ -41,7 +41,7 @@ export default function Home() {
 
  </div>
 <p className={styles.parables}>
-        In Luke, he often tells of the women, by name, that Christ spoke to. He often gave attention to children & the poor & oppressed Luke.                         
+        In Luke, he often tells of the women, by name, that Christ spoke to. He often gave attention to children & the poor & oppressed in Luke also.                         
 </p><div className={styles.nav}>           
       <a href="https://mark-alpha.vercel.app/">
              <Image className={styles.arrow}
