@@ -40,8 +40,9 @@ export default function Home() {
 
 
  </div>
-
-<div className={styles.nav}>           
+<p className={styles.parables}>
+        In Luke, he often tell of the women, by name, that Christ spoke to. He often gave attention to children & the poor & oppressed in this account.                         
+</p><div className={styles.nav}>           
       <a href="https://mark-alpha.vercel.app/">
              <Image className={styles.arrow}
                                 src="/chevron-left.svg"
