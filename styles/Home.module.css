@@ -326,13 +326,13 @@
 }
 
 .card {
-    background-image: url(/risen_23.png);
+    background-image: url(/risen_2.png);
     background-repeat: no-repeat;
     background-position: center;
     background-position-x: center;
     background-position-y: center;
     background-origin: content-box;
-    background-size: contain;
+    background-size: cover;
     display: grid;
     place-items: center;
     background-repeat: no-repeat;
