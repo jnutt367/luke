@@ -1584,7 +1584,7 @@ The Ascension of Jesus
 
       </main>
 
-<main id="first_timothy" className={styles.main}>
+<main id="titus" className={styles.main}>
        
         <div id="first_thessalonians" className={styles.hero}>
                 <h2 className={styles.holy}>THE WORD</h2>
