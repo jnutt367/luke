@@ -1596,7 +1596,7 @@ The Ascension of Jesus
         </h1>
           <div className={styles.image}>
                            <Image 
-                                                    src="/timothy.png"
+                                                    src="/washed.png"
                                                     alt="hero image for Thessalonians"
                                                     height={900}
                                                     width={2000}
