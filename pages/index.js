@@ -1607,7 +1607,7 @@ The Ascension of Jesus
                         </div>
     <p className={styles.parables}>
 
-           Titus is another book of the new testament that we wil have the description for here!
+          Paul writes instructions on how to teach the Creteons, as the island cities were infamously unsafe, violent & corrupt.
 </p>                                                      
                   <div className={styles.nav2}>           
       <a href="https://romans-five.vercel.app/">
