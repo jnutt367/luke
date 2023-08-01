@@ -1610,7 +1610,7 @@ The Ascension of Jesus
           Paul writes instructions on how to teach the Creteons, as the island cities were infamously unsafe, violent & corrupt.
 </p>                                                      
                   <div className={styles.nav2}>           
-      <a href="https://romans-five.vercel.app/">
+      <a href="https://mark-alpha.vercel.app/#second_timothy">
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
@@ -1630,7 +1630,7 @@ The Ascension of Jesus
                                 priority
                               /> 
        </a>
-         <a href="https://second-corinthians.vercel.app/">
+         <a href="https://john-zeta.vercel.app/#philemon">
            <Image 
                                 src="/next.webp"
                                 alt="next"
