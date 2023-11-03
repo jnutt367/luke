@@ -35,7 +35,9 @@ export default function Home() {
 
  </div>
 <p className={styles.parables}>
-        In Luke, he often tells of the women, by name, that Christ spoke to. He often gave attention to children & the poor & oppressed in Luke also.                         
+“The Spirit of the Lord is on me,
+    because he has anointed me
+    to proclaim good news to the poor.
 </p><div className={styles.nav}>           
       <a href="https://mark-alpha.vercel.app/">
     <p>Previous Book</p>
