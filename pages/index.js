@@ -38,6 +38,7 @@ export default function Home() {
         In Luke, he often tells of the women, by name, that Christ spoke to. He often gave attention to children & the poor & oppressed in Luke also.                         
 </p><div className={styles.nav}>           
       <a href="https://mark-alpha.vercel.app/">
+    <p>Previous Book</p>
              <Image className={styles.arrow}
                                 src="/previous.webp"
                                 alt="Left arrow"
@@ -48,6 +49,8 @@ export default function Home() {
        </a>
 
         <a href="https://cash.app/$JNutt367">
+
+                                  <p>For Giving</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
@@ -57,6 +60,7 @@ export default function Home() {
                               /> 
        </a>
          <a href="https://john-zeta.vercel.app/">
+                                  <p>Next Book</p>
             <Image className={styles.arrow}
                                 src="/next.webp"
                                 alt="right arrow"
