@@ -37,8 +37,9 @@ export default function Home() {
 <p className={styles.parables}>
 “The Spirit of the Lord is on me,
     because he has anointed me
-    to proclaim good news to the poor.
-</p><div className={styles.nav}>           
+    to proclaim good news to the poor." Luke 4:18
+      
+      </p><div className={styles.nav}>           
       <a href="https://mark-alpha.vercel.app/">
     <p>Previous Book</p>
              <Image className={styles.arrow}
