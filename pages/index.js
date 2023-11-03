@@ -25,7 +25,7 @@ export default function Home() {
         <h1 className={styles.title}>
         LUKE
         </h1>
-               <div  className={styles.image}>
+               <div  className={styles.iframe}>
                             <iframe width="100%" height="315" src="https://www.youtube.com/embed/isieSTNHJK0?si=xehve391QyJrO7cO?autoplay=1mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                  
                 
