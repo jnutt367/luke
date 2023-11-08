@@ -40,7 +40,7 @@ export default function Home() {
       
       </p><div className={styles.nav}>           
       <a href="https://mark-alpha.vercel.app/">
-    <p>Previous Book</p>
+    <p>Previous</p>
              <Image className={styles.arrow}
                                 src="/previous.webp"
                                 alt="Left arrow"
@@ -52,7 +52,7 @@ export default function Home() {
 
         <a href="https://cash.app/$JNutt367">
 
-                                  <p>For Giving</p>
+                                  <p>Giving</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
@@ -62,7 +62,7 @@ export default function Home() {
                               /> 
        </a>
          <a href="https://john-zeta.vercel.app/">
-                                  <p>Next Book</p>
+                                  <p>Next</p>
             <Image className={styles.arrow}
                                 src="/next.webp"
                                 alt="right arrow"
