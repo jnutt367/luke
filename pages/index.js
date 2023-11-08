@@ -44,8 +44,8 @@ export default function Home() {
              <Image className={styles.arrow}
                                 src="/previous.webp"
                                 alt="Left arrow"
-                                height={75}
-                                width={90}
+                                 height={50}
+                                width={50}
                                 priority
                               />
        </a>
@@ -56,8 +56,8 @@ export default function Home() {
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                 height={50}
+                                width={50}
                                 priority
                               /> 
        </a>
@@ -66,8 +66,8 @@ export default function Home() {
             <Image className={styles.arrow}
                                 src="/next.webp"
                                 alt="right arrow"
-                                 height={75}
-                                width={90}
+                                 height={50}
+                                width={50}
                                 priority
                               />
        </a>           
