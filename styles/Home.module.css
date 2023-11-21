@@ -280,6 +280,7 @@
     flex-direction: row;
     justify-content: space-around;
     position: sticky;
+    border: 1px solid gold;
 }
 
 .nav2 {
