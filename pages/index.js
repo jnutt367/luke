@@ -1607,33 +1607,37 @@ The Ascension of Jesus
 
           Paul writes instructions on how to teach the Creteons, as the island cities were infamously unsafe, violent & corrupt.
 </p>                                                      
-                  <div className={styles.nav2}>           
+                  <div className={styles.nav}>         
+
+                                                      <p>Prev</p>
       <a href="https://mark-alpha.vercel.app/#second_timothy">
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
         
       <a href="https://cash.app/$JNutt367">
+                                  <p>Give</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://john-zeta.vercel.app/#philemon">
+                                  <p>Next</p>
            <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
