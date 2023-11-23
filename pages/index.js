@@ -19,7 +19,7 @@ export default function Home() {
          <div className={styles.hero}>
                 <h2 className={styles.holy}>THE WORD</h2>
                 <h1 className={styles.bible}>
-                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
+                    <a href="https://thewordofgodrisen.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
         
         <h1 className={styles.title}>
@@ -1649,9 +1649,9 @@ The Ascension of Jesus
                                   </div>
                                   
                               
-        <div className={styles.grid2}>
-          <div className={styles.card2}>
-           <h2  className={styles.chapter2}>Titus Chapter I</h2>
+        <div className={styles.grid}>
+          <div className={styles.card}>
+           <h2  className={styles.chapter}>Titus Chapter I</h2>
             <p> 
 
                           
@@ -1669,8 +1669,8 @@ The Ascension of Jesus
   </p>
           </div>
 
-          <div className={styles.card2}>
-            <h2 className={styles.chapter2}>Titus Chapter II</h2>
+          <div className={styles.card}>
+            <h2 className={styles.chapter}>Titus Chapter II</h2>
             <p> 
                                                         Doing Good for the Sake of the Gospel
                                     2 You, however, must teach what is appropriate to sound doctrine. 2 Teach the older men to be temperate, worthy of respect, self-controlled, and sound in faith, in love and in endurance.
@@ -1688,9 +1688,9 @@ The Ascension of Jesus
           </div>
 
           <div
-            className={styles.card2}
+            className={styles.card}
           >
-            <h2 className={styles.chapter2}>Titus Chapter III </h2>
+            <h2 className={styles.chapter}>Titus Chapter III </h2>
             <p>
                                                                   Saved in Order to Do Good
                                         3 Remind the people to be subject to rulers and authorities, to be obedient, to be ready to do whatever is good, 2 to slander no one, to be peaceable and considerate, and always to be gentle toward everyone.
@@ -1711,9 +1711,9 @@ The Ascension of Jesus
 
          
         
-          <div className={styles.card2}
+          <div className={styles.card}
           >
-            <h2 className={styles.chapter2}>!Explaination of Layout!</h2>
+            <h2 className={styles.chapter}>!Explaination of Layout!</h2>
             <p>
             I have appended 1 Thessalonians to the bottom of 1 corinthians...
             I have appended 2 Thessalonians to the bottom of 2 corinthians...
