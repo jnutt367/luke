@@ -325,12 +325,13 @@
 
 .grid {
     background-color:#1B2B5C;
+    background-image: linear-gradient(to bottom right, #1B2B5C, grey);   
     color: black;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    box-shadow: 5px 10px 20px black inset;
+    box-shadow: 5px 10px 20px black;
     border: 1px solid gold;
 
 }
