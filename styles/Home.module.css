@@ -8,7 +8,7 @@
 
 .container {
   background-color: black;
-  background-image: linear-gradient(to bottom right, grey, #1B2B5C);    
+  background-image: linear-gradient(to bottom right, #1B2B5C, #5d79cf);    
   width: 100%;
   display: grid;
   align-items: center;
@@ -274,7 +274,7 @@
 
 .nav {
     background-color:#1B2B5C;
-    background-image: linear-gradient(to bottom right, #1B2B5C, grey);   
+    background-image: linear-gradient(to bottom right, #1B2B5C, #5d79cf);   
     color: white;
     opacity: 1;
     padding: 5px;
@@ -325,7 +325,7 @@
 
 .grid {
     background-color:#1B2B5C;
-    background-image: linear-gradient(to bottom right, #1B2B5C, grey);   
+    background-image: linear-gradient(to bottom right, #5d79cf, #1B2B5C);   
     color: black;
     display: flex;
     align-items: center;
