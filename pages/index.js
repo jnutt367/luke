@@ -1596,7 +1596,7 @@ The Ascension of Jesus
         <h1 className={styles.title}>
        TITUS
         </h1>
-          <div className={styles.image}>
+          <div className={styles.iframe1}>
                            <Image 
                                                     src="/washed.png"
                                                     alt="hero image for Thessalonians"
@@ -1609,7 +1609,7 @@ The Ascension of Jesus
                         </div>
     <p className={styles.parables}>
 
-          Paul writes instructions on how to teach the Creteons, as the island cities were infamously unsafe, violent & corrupt.
+          Paul's instructions how to teach the Creteons, the island cities were infamously unsafe & corrupt.
 </p>                                                      
                   <div className={styles.nav}>         
 
