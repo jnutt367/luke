@@ -58,7 +58,7 @@ export default function Home() {
                               />
        </a>
 
-        <a href="https://cash.app/$JNutt367">
+        <a href="https://cash.app/$thewordofgodrisen">
 
                                   <p>Give</p>
               <Image className={styles.arrow}
