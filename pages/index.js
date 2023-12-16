@@ -1584,7 +1584,7 @@ The Ascension of Jesus
         Coded, Published & Deployed by His servant: Jason Daniel Nutt 
         </code>
         </p>
-                      <a href="https://gofund.me/a2b590af" target="_blank">  
+                      <a href="https://cash.app/$thewordofgodrisen" target="_blank">  
                           <p className={styles.fund}>Help Fund This Bible</p>  
                       </a>
 
