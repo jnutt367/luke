@@ -286,6 +286,7 @@
     line-height: 1.5;
     font-size: 1rem;
     max-width: 60rem;
+    font-family: Dancing Script;
 }
 
 
@@ -595,7 +596,7 @@
 }
 
 .publisher {
-    font-family: Arial, Verdana, Tahoma, Trebuchet MS, Times New Roman, Georgia, Garamond, Courier New, Brush Script MT; 
+    font-family: Dancing Script, Verdana, Tahoma, Trebuchet MS, Times New Roman, Georgia, Garamond, Courier New, Brush Script MT; 
     color: white;
     text-align: center;
 }
