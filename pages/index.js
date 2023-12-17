@@ -1602,16 +1602,10 @@ The Ascension of Jesus
        TITUS
         </h1>
           <div className={styles.iframe1}>
-                           <Image 
-                                                    src="/washed.png"
-                                                    alt="hero image for Thessalonians"
-                                                    height={900}
-                                                    width={2000}
-                                                    priority
-                                                  />
-                          
-
-                        </div>
+                       
+         <iframe width="100%" height="300" src="https://www.youtube.com/embed/KgVLE_JVhBs?si=NImPl_BeOEXkF8Ru&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                     
+  
+         </div>
     <p className={styles.parables}>
 
           Paul's instructions how to teach the Creteons, the island cities were infamously unsafe & corrupt.
