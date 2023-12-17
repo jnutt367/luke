@@ -1608,7 +1608,7 @@ The Ascension of Jesus
          </div>
     <p className={styles.parables}>
 
-          For there are many rebellious people, full of meaningless talk and deception,...
+          To the pure, all things are pure, but to those who are corrupted and do not believe, nothing is pure.
 </p>                                                      
                   <div className={styles.nav}>         
 
