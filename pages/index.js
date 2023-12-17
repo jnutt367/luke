@@ -1608,7 +1608,7 @@ The Ascension of Jesus
          </div>
     <p className={styles.parables}>
 
-          Paul's instructions how to teach the Creteons, the island cities were infamously unsafe & corrupt.
+          For there are many rebellious people, full of meaningless talk and deception,...
 </p>                                                      
                   <div className={styles.nav}>         
 
