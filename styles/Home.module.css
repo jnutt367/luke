@@ -333,7 +333,7 @@
     justify-content: space-around;
     position: sticky;
   font-family: Nanum Brush Script;
-
+}
 .nav2 a:hover {
     scale: 1.1;
     opacity: 0.8;
