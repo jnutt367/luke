@@ -121,7 +121,7 @@
     padding-left: 50px;
     margin-top: 25px;
     top: -15px;
-    font-family: Dancing Script, Ariel, sans, sans-serif, "Times New Roman", Times, serif;
+   font-family: Nanum Brush Script, Ariel, sans, sans-serif, "Times New Roman", Times, serif;
     font-weight: 200;
     font-size: 1.5em;
    animation-name: parables;
@@ -209,7 +209,7 @@
     list-style: none;
     font-size: xx-large;
     padding-top: 3rem;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Nanum Brush Script, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .donateButton {
@@ -287,8 +287,7 @@
     line-height: 1.5;
     font-size: 1rem;
     max-width: 60rem;
-    font-family: Dancing Script;
-}
+   font-family: Nanum Brush Script;
 
 
 
@@ -320,7 +319,7 @@
     position: sticky;
     border: 1px solid gold;
     box-shadow: 5px 10px 20px black;
-    font-family: Dancing Script;
+    font-family: Nanum Brush Script;
 }
 
 .nav2 {
@@ -333,8 +332,7 @@
     flex-direction: row;
     justify-content: space-around;
     position: sticky;
-    font-family: Dancing Script;
-}
+  font-family: Nanum Brush Script;
 
 .nav2 a:hover {
     scale: 1.1;
@@ -531,7 +529,7 @@
     padding: 1.5rem;
     font-size: 1.75rem;
     line-height: 1.5;
-    font-family: Dancing Script, monospace;
+    font-family: Nanum Brush Script, monospace;
 }
 
 .card p:hover {
@@ -574,7 +572,7 @@
     padding: 1.5rem;
     font-size: 1.75rem;
     line-height: 1.5;
-    font-family: Dancing Script, monospace;
+    font-family: Nanum Brush Script, monospace;
 }
 
 .card2 p:hover {
@@ -652,7 +650,7 @@
     border-radius: 15px;
     background-image: linear-gradient(to bottom right, #995c78, #9F2B68);    
     opacity:0.7;  
-    font-family: Dancing Script, Ariel, sans, sans-serif, "Times New Roman", Times, serif;
+   font-family: Nanum Brush Script, Ariel, sans, sans-serif, "Times New Roman", Times, serif;
     font-weight: 200;
     font-size: 1.5em;
   }
