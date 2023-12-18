@@ -1614,8 +1614,10 @@ The Ascension of Jesus
 </p>                                                      
                   <div className={styles.nav}>         
 
-                                                      <p>Prev</p>
+                                                     
       <a href="https://mark-alpha.vercel.app/#second_timothy">
+
+ <p>Prev</p>
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
