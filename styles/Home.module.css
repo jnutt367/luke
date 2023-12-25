@@ -526,7 +526,6 @@
 
 .card p {
     margin: 0;
-    color: white;
     padding: 1.5rem;
     font-size: 1.75rem;
     line-height: 1.5;
@@ -535,6 +534,7 @@
 
 .card p:hover {
     font-weight: 900;
+    color: white;
 }
 .chapter:hover,
 .chapter:active,
@@ -570,7 +570,6 @@
 
 .card2 p {
     margin: 0;
-     color: white;
     padding: 1.5rem;
     font-size: 1.75rem;
     line-height: 1.5;
@@ -579,6 +578,7 @@
 
 .card2 p:hover {
     font-weight: 900;
+    color: white;
 }
 
 
