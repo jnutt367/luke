@@ -527,14 +527,13 @@
 .card p {
     margin: 0;
     padding: 1.5rem;
-    font-size: 2rem;
+    font-size: 2.5rem;
     line-height: 1.5;
     font-family: Nanum Brush Script, monospace;
 }
 
 .card p:hover {
     font-weight: 900;
-    color: white;
 }
 .chapter:hover,
 .chapter:active,
@@ -571,7 +570,7 @@
 .card2 p {
     margin: 0;
     padding: 1.5rem;
-    font-size: 2rem;
+    font-size: 2.5rem;
     line-height: 1.5;
     font-family: Nanum Brush Script, monospace;
 }
